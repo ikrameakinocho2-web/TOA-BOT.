@@ -1,2 +1,2 @@
 # TOA-BOT.
-TOA-BOT est un IA qui répond aux préoccupations divers des utilisateurs 
+TOA-BOT est une IA qui répond aux préoccupations divers des utilisateurs 
